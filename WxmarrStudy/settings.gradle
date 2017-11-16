@@ -1,1 +1,1 @@
-include ':app', ':photowall'
+include ':app', ':photowall', ':myimageloader'

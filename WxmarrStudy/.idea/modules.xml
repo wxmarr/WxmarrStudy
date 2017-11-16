@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WxmarrStudy.iml" filepath="$PROJECT_DIR$/WxmarrStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WxmarrStudy.iml" filepath="$PROJECT_DIR$/WxmarrStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myimageloader/myimageloader.iml" filepath="$PROJECT_DIR$/myimageloader/myimageloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photowall/photowall.iml" filepath="$PROJECT_DIR$/photowall/photowall.iml" />
       <module fileurl="file://$PROJECT_DIR$/photowall/photowall.iml" filepath="$PROJECT_DIR$/photowall/photowall.iml" />
     </modules>
   </component>
